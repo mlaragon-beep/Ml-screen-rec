@@ -1,0 +1,6 @@
+{
+  "name": "Landfall Rec",
+  "description": "Low-impact screen recorder for Mobile Legends with internal audio and microphone mixing, hardware-first compression presets, and highlight markers.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
